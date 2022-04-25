@@ -6,7 +6,9 @@
 */
 
 .content {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #d3ae34;
+
+    font-family: 'Times New Roman', Times, serif;
 
     position: relative;
 
